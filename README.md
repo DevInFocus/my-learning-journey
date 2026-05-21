@@ -13,7 +13,7 @@ Documenting my transition from a non-technical background into cybersecurity thr
 - Practice real-world security investigations
 - Document my cybersecurity learning journey
 
-  ## Progress
+## Progress
  This repository will contain:
  - Linux practice notes
  - Security investigations
